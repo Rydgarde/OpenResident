@@ -4,6 +4,7 @@ Classic Resident Evil open-source engine
 
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)  
 
+
 Based on the research of great engineers who spent many years of their lives on this:
 - Patrice Mandin ([@pmandin](https://github.com/pmandin))
 - Megan Grass ([@MeganGrass](https://github.com/MeganGrass))
